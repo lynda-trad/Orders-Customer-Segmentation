@@ -4,5 +4,6 @@ Objective : Create customer clusters
 
 Summary :
 * KMeans
+* DBScan
 
 Data : https://www.kaggle.com/olistbr/brazilian-ecommerce
