@@ -1,4 +1,4 @@
-# Customer Segmentation
+# Orders-Customer-Segmentation
 ## Machine Learning Clustering
 Objective : Create customer clusters
 
